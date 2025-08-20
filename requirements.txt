@@ -5,4 +5,4 @@ openai #EDA proccess
 groq #EDA proccess
 seaborn #data visualization
 dotenv #to load environment variables
-
+matplotlib #data visualization
